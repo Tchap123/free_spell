@@ -4,7 +4,7 @@ view multimedia content, and access online services and applications.
 
 
 
-
+$POPULAR BROWSER
 Google Chrome: This is currently the most widely used internet browser in the world. 
 It is known for its speed, reliability, and compatibility with a wide range of web applications.
 
@@ -16,6 +16,14 @@ more secure than its predecessor, Internet Explorer.
 
 Apple Safari: This is the default web browser for Apple's line of Mac computers and iOS devices. 
 It is known for its speed, energy efficiency, and seamless integration with other Apple products.
+
+$SEARCH ENGINE
+    A search engine is a website that takes input from a user and searches the internet for results related or similar to the input.
+    
+   <~~Popular Search Engine~~>
+        Google: www.google.com is a search engine provided by Google that is fast and reliable. Google uses AI and efficient algorithm
+                to browse the internet and show the results.
+        Bing: www.bing.com is a search engine provided by Microsoft that is fast and reliable too.
 
 $EXTENSION
 Extensions and addons are additional software components that can be added to web browsers to enhance their functionality. 
