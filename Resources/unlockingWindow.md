@@ -13,10 +13,14 @@
 2. Click on ***Run as Administrator***
 3. After the ***powershell*** window opens, Paste the below code:
     - For Windows 8 or later:
-        `irm https://get.activated.win | iex`
+        ```cmd
+      irm https://get.activated.win | iex
+        ```
     ---
     - For Windows 7:
-         ` iex ((New-Object Net.WebClient).DownloadString('https://get.activated.win')) `
+         ```cmd
+      iex ((New-Object Net.WebClient).DownloadString('https://get.activated.win'))
+         ```
 4. Run the Script.
 5. A new window will open with options:
     1. HWID - Windows
